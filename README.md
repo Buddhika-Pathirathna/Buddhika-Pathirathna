@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Buddhika ✍️
 I am from Sri Lanka and am passionate about technical writing in API and Web3 domains.
 
-![github](/images/icon.png)
+![My Banner](/bdk-banner-1.png)
 
 ## About Me
 
