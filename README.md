@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Buddhika ✍️
 I am from Sri Lanka and am passionate about technical writing in API and Web3 domains.
 
+![github](/images/icon.png)
+
 ## About Me
 
 I love writing, writing about tech, and writing for techies. Started as a software engineer, and dealt with Java-related technologies until I found my passion for writing. Since my core studies from a technical background, I turned to be a software technical writer merging my software engineering abilities with my passion for crafting words into awesome pieces. Then, on the way user experience, API documentation, developer experience, blockchain, and web3 crossed the road. I am constantly learning ways to enhance user experience and accelerate product adoption. Diagramming is one of my favorite parts of the journey and I always look for new tools and technologies to make the task more efficient and impactful for the audience.
@@ -11,7 +13,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on creating training materials to move legacy users to a cloud-based funeral management system.
 - 🌱 I’m currently learning how to write for developers and more hands-on projects using Ethereum, Solidity, JS, and Typescript.
 - 👯 I’m looking to collaborate on web3 projects and writers.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about software technical writing, API docs, and blockchain writing.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/bdkpathi-tw) and pathi.solutions@gmail.com.
 - 😄 Pronouns: She/Her.
