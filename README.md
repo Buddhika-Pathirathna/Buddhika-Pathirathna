@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Buddhika ✍️
-I am a passionate technical writer from Sri Lanka and I am currently enthusiastic about technical writing in API, Developer Documentation, and Web3 domains.
+I am a passionate technical writer from Sri Lanka and  am eager to work in API, Developer Documentation, and Web3 projects.
 
 ![My Banner](/assets/bdk-banner-1.png)
 
