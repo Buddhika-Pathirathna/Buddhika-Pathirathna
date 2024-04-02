@@ -5,7 +5,7 @@ I am a passionate technical writer from Sri Lanka and  am eager to work in API d
 
 ## About Me
 
-I love writing, writing about tech, and writing for techies. Started as a software engineer, and dealt with Java-related technologies until I found my passion for writing. Since my core studies from a technical background, I turned to be a software technical writer merging my software engineering abilities with my passion for crafting words into awesome pieces. Then, on the way user experience, API documentation, developer experience, blockchain, and web3 crossed the road. I am constantly learning ways to enhance user experience and accelerate product adoption. Diagramming is one of my favorite parts of the journey and I always look for new tools and technologies to make the task more efficient and impactful for the audience.
+I love writing, writing about tech, and writing for techies. Started as a software engineer, and dealt with Java-related technologies until I found my passion for writing. Since my core studies from a technical background, I turned to be a software technical writer merging my software engineering abilities with my passion for crafting words into awesome writing projects. Then, on the way user experience, API documentation, developer experience, blockchain, and web3 crossed the road. I am constantly learning ways to enhance user experience and accelerate product adoption. Diagramming is one of my favorite parts of the journey and I always look for new tools and technologies to make the task more efficient and impactful for the audience.
 
 
 Here are some ideas to get you started:
