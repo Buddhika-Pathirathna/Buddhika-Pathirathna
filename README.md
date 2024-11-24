@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: Knows the dog language.
 
+---
+
+## 🛠 **Skills & Tools**  
+- **Languages:** Markdown, YAML, JSON, HTML  
+- **Documentation Tools:** Swagger (OpenAPI), Postman, MkDocs, Docusaurus, Jekyll  
+- **Version Control:** Git, GitHub  
+- **Tech Knowledge:** RESTful APIs, Blockchain Basics, Automation Systems, Technical Communication  
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -60,10 +70,30 @@ Here are some ideas to get you started:
 - **Docs-as-code Practice**: Skilled in managing documentation projects, using tools like Git, Markdown, Visual Studio Code, and CI/CD.
 - **Version Control**: Proficient in using Git and GitHub for version control and collaboration.
 
+---
+## 🎯 **Current Goals**  
+- **Building Expertise:** Exploring advanced documentation tools like Redocly and contributing to open-source API docs.  
+- **Engaging Communities:** Sharing my insights as a working mother in tech through LinkedIn posts and YouTube videos.  
+- **Enhancing My Portfolio:** Showcasing a variety of documentation projects for APIs, SDKs, and developer tools.
 
-## Experience
+---
 
-It is most updated in my [LinkedIn](www.linkedin.com/in/bdkpathi-tw) profile 
+## ✍ **Writing Philosophy**  
+I believe in crafting documentation that is:  
+1. **Accessible:** Clear and easy to understand for all user levels.  
+2. **Well-Structured:** Organized to help readers quickly find what they need.  
+3. **Empathetic:** Designed with the end-user's needs in mind.
+
+---
+
+## 🌍 **Connect With Me**  
+- **[LinkedIn](www.linkedin.com/in/bdkpathi-tw)**  
+
+
+
+Let’s collaborate on projects and make documentation a seamless experience! ✨
+
+
 
 ## Contact
 
