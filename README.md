@@ -10,12 +10,14 @@
 
 ## About Me
 
-I love writing, writing about tech, and writing for techies. Started as a software engineer, and dealt with Java-related technologies until I found my passion for writing. Since my core studies from a technical background, I turned to be a software technical writer merging my software engineering abilities with my passion for crafting words into awesome writing projects. Then, on the way user experience, API documentation, developer experience, blockchain, and web3 crossed the road. I am constantly learning ways to enhance user experience and accelerate product adoption. Diagramming is one of my favorite parts of the journey and I always look for new tools and technologies to make the task more efficient and impactful for the audience.
-
+👋 Hi there! I'm a former software engineer turned technical writer with a passion for making complex tech clear and engaging. My journey began in the world of Java and backend technologies, but I soon discovered that my true passion lies in writing—especially writing for tech-savvy audiences. I bridge the gap between code and communication. My work spans technical writing, UML diagramming, API docs, developer experience, UX, blockchain, and Web3.
+I transitioned into technical writing to merge my love for language with my technical expertise. I specialize in crafting developer-focused content that’s clear, accurate, and user-friendly—from API documentation and SDK guides to tutorials and UX-driven help systems. Along the way, I’ve explored the evolving landscapes of blockchain, Web3, and developer experience (DX), always with a focus on enhancing usability and accelerating product adoption.
+🧠 I’m constantly learning new tools and techniques to improve how information is delivered. Diagramming is one of my favorite ways to communicate complex ideas visually, and I’m always on the hunt for tools that make this process more intuitive and impactful.
+Whether it’s writing, diagramming, or diving into new tech, I’m here to make the user's journey smoother and more enjoyable.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on creating training materials to move legacy users to a cloud-based funeral management system.
+- 🔭 I’m currently working on creating user documentation materials for a observability and analytics system.
 - 🌱 I’m currently learning how to write for developers and more hands-on projects using Ethereum, Solidity, JS, and Typescript.
 - 👯 I’m looking to collaborate on web3 projects and writers.
 - 💬 Ask me about software technical writing, API docs, and blockchain writing.
@@ -70,7 +72,7 @@ Here are some ideas to get you started:
 ---
 ## 🎯 **Current Goals**  
 - **Building Expertise:** Exploring advanced documentation tools like Redocly and contributing to open-source API docs.  
-- **Engaging Communities:** Sharing my insights as a working mother in tech through LinkedIn posts and YouTube videos.  
+- **Engaging Communities:** Sharing my insight in tech through LinkedIn posts and YouTube videos.  
 - **Enhancing My Portfolio:** Showcasing a variety of documentation projects for APIs, SDKs, and developer tools.
 
 ---
