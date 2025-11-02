@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Buddhika 👩‍💻 Welcome to My GitHub!
 
 ## 🌟 API & Developer Documentation Technical Writer
- ✍️ I am a passionate technical writer from Sri Lanka with expertise in API and developer documentation. 
- With a background in engineering and a flair for simplifying technical content, I create clear, engaging, and user-friendly resources that empower developers and users alike.
+ ✍️ I am a passionate technical writer with expertise in API and developer documentation. 
+ With a background in software development and a flair for simplifying technical content, I create clear, engaging, and user-friendly resources that empower developers and users alike.
 
 
 
